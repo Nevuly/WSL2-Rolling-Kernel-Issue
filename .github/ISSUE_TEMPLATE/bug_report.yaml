@@ -28,6 +28,7 @@ body:
     options:
       - "Stable Release"
       - "LTS Release"
+      - "Both Releases"
   validations:
     required: true
 
