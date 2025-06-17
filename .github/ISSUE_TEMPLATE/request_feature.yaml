@@ -1,6 +1,8 @@
 ---
 name: "Request Feature"
 description: Request Feature on WSL2 Rolling Release Kernel
+title: "[REQUEST] "
+labels: ["REQUEST"]
 body:
 - type: markdown
   attributes:

@@ -1,12 +1,13 @@
 ---
 name: "Discussion / Question / Suggestion"
-description: Discussion / Question / Suggestion on WSL2 Rolling Release Kernel 
+description: Discussion / Question / Suggestion on WSL2 Rolling Release Kernel
+title: "[Q&A] "
+labels: ["Q&A"]
 body:
 - type: markdown
   attributes:
     value: |
       Please [search for existing issues](https://github.com/Nevuly/WSL2-Rolling-Issues/issues) before creating a new one.
-
 
 - type: dropdown
   attributes:

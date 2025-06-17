@@ -1,6 +1,8 @@
 ---
 name: "Bug Report"
 description: Report a bug on WSL2 Rolling Release Kernel
+title: "[BUG] "
+labels: ["BUG"]
 body:
 - type: markdown
   attributes:
