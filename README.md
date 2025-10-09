@@ -1,8 +1,7 @@
 # Rolling Release Kernel for WSL2 Issue Report Repository
 
-### **NOTICE**
-
-Don't create PR in this repository!
+> [!WARNING]
+> Don't create PR in this repository!
 
 ## Current Kernel Status
 
